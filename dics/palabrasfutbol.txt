@@ -1,0 +1,20 @@
+Gol
+Portería
+Arquero
+Delantero
+Centrocampista
+Defensor
+Árbitro
+Tarjeta amarilla
+Tarjeta roja
+Fuera de juego
+Penalti
+Saque de esquina
+Saque de banda
+Balón
+Campeonato
+Entrenador
+Estadio
+Hinchada
+Remate
+Tiro libre
